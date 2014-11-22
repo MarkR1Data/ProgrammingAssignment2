@@ -9,7 +9,7 @@
 
 #===============================================================================
 #
-# FUNCTION : makeCaheMtrix)
+# FUNCTION : makeCaheMtrix()
 #
 # This function creates a list and provides accessor mehthods as follows :
 # set() : set the value of the matrix
